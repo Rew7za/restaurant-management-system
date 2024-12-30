@@ -16,7 +16,7 @@ The project utilizes different libraries to create and manage Excel files, from 
 ## How to Use
 1. download the file
 2. Install the necessary libraries
-3. 3. In line 507 of the code, replace the file path with the path to your own directory (e.g., `C:/project`).
+3. In line 507 of the code, replace the file path with the path to your own directory (e.g., `C:/project`).
 4. Run the application and start managing your restaurant
 
 Feel free to contribute to this project by opening issues or submitting pull requests!
