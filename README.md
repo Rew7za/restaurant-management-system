@@ -1,4 +1,4 @@
-# Restaurant Management System
+# Basic Restaurant Management System
 
 This is a basic project for managing a restaurant. It provides various features such as:
 
